@@ -85,5 +85,3 @@ If you have questions, suggestions or would like to collaborate, please contact 
 
 ---
 
-## 🔖 License  
-*(Specify your licence here if applicable – e.g., MIT, Apache 2.0, or custom.)*  
