@@ -15,10 +15,6 @@ Key goals:
 
 ---
 
-## 🧮 Contents  
-
----
-
 ## 📂 Folder Structure  
 - `Mathlab files/` — MATLAB code and datasets used for this project.  
   - Data acquisition scripts  
@@ -31,8 +27,7 @@ Key goals:
 
 ## 🔧 Getting Started  
 ### Prerequisites  
-- MATLAB (compatible version)  
-- Signal processing toolbox (if applicable)  
+- MATLAB (compatible version) 
 - Basic knowledge of machine learning (feedforward MLP) and PCA
 
 ### How to run  
@@ -42,7 +37,7 @@ Key goals:
 4. Execute the PCA script to reduce feature dimensionality.  
 5. Run the MLP training script. Adjust hyperparameters as needed (number of hidden layers/neurons, activation functions, learning rate, epochs, etc.).  
 6. After training, run evaluation scripts to measure authentication performance (accuracy, confusion matrix, false accept rate, false reject rate).  
-7. (Optional) Visualise results: feature distributions, PCA variance explained, training/validation loss, ROC curves.
+7. Visualise results: feature distributions, PCA variance explained, training/validation loss, ROC curves.
 
 ---
 
@@ -56,11 +51,8 @@ Key goals:
 
 ## ✅ Results & Findings  
 - The PCA approach significantly reduced feature dimensionality while maintaining/boosting model performance.  
-- The MLP model achieved an authentication accuracy of *[insert your best figure]* on the test set.  
-- False accept/reject rates were reduced to *[insert your results]*, showing improved robustness for smartwatch-based authentication.  
 - Model training time and inference latency were acceptable for a wearable-based authentication scenario.
 
-*(Note: Replace the bracketed placeholders with your actual results.)*
 
 ---
 
@@ -81,7 +73,6 @@ Some ideas for future work or modifications:
 
 ## 📧 Contact & Acknowledgements  
 Developed as part of the module **PUSL‑3123 AI and ML**.  
-If you have questions, suggestions or would like to collaborate, please contact me via GitHub.
 
 ---
 
